@@ -1,0 +1,82 @@
+div{
+width: 100%;
+height: 640px;
+
+}
+#school{
+    width: 100%;
+    height: 100%;
+    filter: blur(2.5px);
+    } 
+    .signin{
+     
+        text-align: center;
+        width: 500px;
+        height: 400px;
+        background-color: white;
+        position: relative;
+        bottom: 540px;
+        margin: 25px auto;
+        border-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    h2{
+        position: relative;
+        bottom: 40px;
+    }
+    input{
+        background-color: whitesmoke;
+        border: 2px solid rgb(213, 208, 203);
+        border-radius: 5px;
+        width: 400px;
+        height: 40px;
+        position: relative;
+        left: 50px;
+        bottom: 50px;
+        font-size: 18px;
+    }
+    ::placeholder{
+        text-align: right;
+        position: relative;
+        right: 10px;
+        font-size: 17px;
+        
+    }
+    #id{
+        position: relative;
+        top: -35px;
+    }
+    hr{
+        width: 400px;
+    }
+    #hr{
+        top: -10px;
+    }
+    #br{
+        top: -60px;
+    }
+    button{
+        width: 300px;
+        height: 50px;
+        border: none;
+        background-color: rgb(43, 226, 217);
+        font-size: 20px;
+        border-radius: 10px;
+        cursor: pointer;
+        position: relative;
+        bottom: 0px;
+        left: 5px;
+    }
+    button:hover{
+        background-color: rgb(43, 226, 86);
+    }
+    a{
+        position: relative;
+        top: -15px;
+    }
+    hr{
+        position: relative;
+        top: -70px;
+    }

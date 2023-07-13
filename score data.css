@@ -1,0 +1,30 @@
+.spe{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 1000px;
+    position: relative;
+    left: 170px;
+    top: 120px;
+    border: 2px solid black;
+}
+
+#rom{
+    text-align: center;
+    position: relative;
+    /* left: 165px; */
+    bottom: -100px;
+}
+
+.gram{
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+}
+h3{
+    position: relative;
+    left:50px;
+    bottom: 3px;
+    display: inline-flex;
+}

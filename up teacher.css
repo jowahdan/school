@@ -1,0 +1,110 @@
+#school{
+    width: 100%;
+    height: 100%;
+    filter: blur(2.5px);
+    }  
+    .div{
+    
+      
+        height: 100%;
+        width: 100%;
+    } 
+    #file-image{
+        display: none;
+        visibility: none;
+        width: 200px;
+        height:100px;
+    }
+    #em{
+border: 5px solid black;
+border-radius: 70px;
+z-index: 5;
+position: relative;
+left: 25px;
+top: 0px;
+width: 100px;
+height: 100px;
+    }
+    #cam{
+        width: 40px;
+        height:40px;
+        position: relative;
+        right: 55px;
+        bottom: 11px;
+        z-index: 68;
+        cursor: pointer;
+    }
+    .in{
+        width: 250px;
+        height: 40px;
+        margin: 10px;
+    }
+    ::placeholder{
+        text-align: right;
+        position: relative;
+        right: 10px;
+        font-size: 17px;
+        
+    }
+    #sh{
+width: 525px;
+height: 40px;
+position: relative;
+left: 0px;
+top: 20px;
+    }
+    .signup{
+        text-align: center;
+        width: 600px;
+        height: 550px;
+        background-color: white;
+        position: relative;
+        bottom: 620px;
+        margin: 25px auto;
+        border-radius: 20px;
+        
+    }
+    input{
+        background-color: whitesmoke;
+        border: 2px solid rgb(213, 208, 203);
+        border-radius: 5px;
+        font-size: 18px;
+    }
+    hr{
+        width: 400px;
+    }
+    button{
+        width: 300px;
+        height: 50px;
+        border: none;
+        background-color: rgb(43, 226, 217);
+        font-size: 20px;
+        border-radius: 10px;
+        cursor: pointer;
+        position: relative;
+        bottom: 10px;
+    }
+    button:hover{
+        background-color: rgb(43, 226, 86);
+    }
+    a{
+        position: relative;
+        top: 20px;
+    }
+    hr{
+        position: relative;
+        top: 0px;
+    }
+    .bo{
+        position: relative;
+        top: 10px;
+    }
+    #fr{
+        position: relative;
+        top: 5px;
+    }
+    #top{
+       position: relative;
+       top: 0;
+       /* color: black; */
+    }

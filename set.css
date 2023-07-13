@@ -1,0 +1,195 @@
+#name{
+    position: relative;
+    bottom: 0px;
+    right: -5px;
+    width: 230px;
+    height: 25px;
+    display: none;
+    direction: ltr;
+    font-size: 17px;
+}
+#fi{
+  position: relative;
+  right: 5px;  
+}
+
+#ok{
+    position: relative;
+    bottom:25px;
+    right: 0px;
+    display: none;
+}
+#nameo{
+    position: relative;
+    bottom: 0px;
+    right: -5px;
+    width: 230px;
+    height: 25px;
+    display: none;
+    direction: ltr;
+    font-size: 17px;
+}
+#fio{
+  position: relative;
+  right: 5px;  
+}
+#oko{
+    position: relative;
+    bottom:25px;
+    right: 0px;
+    display: none;
+}
+#names{
+    position: relative;
+    bottom: 0px;
+    right: 0px;
+    width: 230px;
+    height: 25px;
+    display: none;
+    direction: ltr;
+    font-size: 17px;
+}
+#fis{
+  position: relative;
+  right: 5px;  
+}
+#oks{
+    position: relative;
+    bottom:25px;
+    right: 5px;
+    display: none;
+}
+#namey{
+    position: relative;
+    bottom: 0px;
+    right: -5px;
+    width: 230px;
+    height: 25px;
+    display: none;
+    direction: ltr;
+    font-size: 17px;
+    
+}
+
+#fiy{
+  position: relative;
+  right: 5px;  
+}
+#oky{
+    position: relative;
+    bottom:25px;
+    right: 0px;
+    display: none;
+}
+#namer{
+    position: relative;
+    bottom: 0px;
+    right: -5px;
+    width: 230px;
+    height: 25px;
+    display: none;
+    direction: ltr;
+    font-size: 17px;
+}
+#fir{
+  position: relative;
+  right: 5px;  
+}
+#okr{
+    position: relative;
+    bottom:25px;
+    right: 0px;
+    display: none;
+}
+.pen{
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 30px;
+    bottom: 40px;
+}
+.mar{
+    width: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.ed{
+    position: relative;
+    left: 50px;
+    top: 30px;
+    direction: rtl;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+.mod{
+    width: 45px;
+    height: 45px;
+    position: relative;
+    top: 10px;
+}
+.modme{
+    width: 45px;
+    height: 45px;
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+.modm{
+    width: 45px;
+    height: 45px;
+    position: relative;
+    top: 20px;
+   
+}
+.dot{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 150px;
+    position: relative;
+    bottom: 50px;
+}
+.mode{
+    position: relative;
+    bottom: 800px;
+    left: 20px;
+    width: 500px;
+}
+ .langu{
+    position: relative;
+    left: 20px;
+    bottom: 700px;
+    width: 500px;
+ }
+
+
+ #file-image{
+    display: none;
+    visibility: none;
+    width: 200px;
+    height:100px;
+}
+#em{
+border: 5px solid black;
+border-radius: 70px;
+z-index: 5;
+position: relative;
+left: -80px;
+top: 0px;
+width: 100px;
+height: 100px;
+}
+#cam{
+    width: 40px;
+    height:40px;
+    position: relative;
+    right: 3px;
+    bottom: 11px;
+    z-index: 68;
+    cursor: pointer;
+}

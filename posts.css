@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(206, 211, 211);
+}
+.post{
+    height: auto;
+    width: 1000px;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    left: 170px;
+    /* direction: rtl; */
+}
+#school{
+    width: 1000px;
+    height: 500px;
+    position: relative;
+    top: 20px;
+}
+hr{
+    width: 900px;
+    position: relative;
+    top: 20px;
+}
+.spa{
+     direction: rtl;
+    position: relative;
+    right: 30px;
+    top: 20px;
+    
+}
+.h2{
+    
+    width: 990px;
+    position: relative;
+    left: 30px;
+    direction: rtl;
+}
+.react{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 1500px;
+    position: relative;
+    right: 250px;
+    top: 10px;
+}
+.act{
+    /* width: 150px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.num{
+    margin-left: 15px;
+}
+.ac{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative;
+    bottom: 5px;
+}
+
+.re{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 7px;
+    left: 10px;
+    cursor: pointer;
+}
+.rr{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 15px;
+    left: 10px;
+    cursor: pointer;
+}

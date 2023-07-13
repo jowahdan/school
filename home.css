@@ -1,0 +1,536 @@
+#noti{
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    position: relative;
+    top: 0px;
+    left: 15px;
+}
+input{
+    height: 25px;
+    width: 200px;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-size: 18px;
+    position: relative;
+    top: 5px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#school{
+    width: 48px;
+    height: 48px;
+    border-radius: 24px;
+    position: relative;
+    top: 7px;
+}
+.h2{
+    position: relative;
+    bottom: 3px;
+}
+.nav{
+/* background-color: aqua; */
+width: 100%;
+height: 60px;
+display: flex;
+flex-direction: row-reverse;
+justify-content: space-between;
+position: relative;
+right: 8px;
+bottom: 8px;
+}
+.ri{
+width: 300px;
+position: relative;
+right: 0px;
+top: 8px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+.le{
+    width: 450px;
+position: relative;
+left: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.fo{
+    font-size: 20px;
+}
+.nt{
+    font-size: 18;
+    position: relative;
+    top: 5px;
+    left: 5px;
+}
+.mar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px;
+}
+.top{
+    width: 1290px;
+    margin-top: 50px;
+    position: relative;
+    bottom: 20px;
+    left: 25px;
+    border: 2px solid black;
+}
+
+.grade{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 1100px;
+    position: relative;
+    left: 270px;
+    top: 20px;
+}
+.spe{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 1000px;
+    position: relative;
+    left: 310px;
+    top: -280px;
+    border: 2px solid black;
+}
+.spec{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 1000px;
+    position: relative;
+    left: 310px;
+    top: -130px;
+    border: 2px solid black;
+}
+.sp{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 600px;
+    height: 280px;
+    position: relative;
+    left: 310px;
+    top: 0px;
+    border: 10px solid rgb(92, 90, 90);
+}
+.sm{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 600px;
+    height: 280px;
+    position: relative;
+    left: 510px;
+    top: 120px;
+    border: 10px solid rgb(92, 90, 90);
+}
+.smi{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 600px;
+    height: 280px;
+    position: relative;
+    left: 510px;
+    top: 140px;
+    border: 10px solid rgb(92, 90, 90);
+}
+.smil{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 600px;
+    height: 280px;
+    position: relative;
+    left: 510px;
+    top: 160px;
+    border: 10px solid rgb(92, 90, 90);
+}
+.smil1{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 600px;
+    height: 280px;
+    position: relative;
+    left: 510px;
+    top: 180px;
+    border: 10px solid rgb(92, 90, 90);
+}
+.smil2{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 600px;
+    height: 280px;
+    position: relative;
+    left: 510px;
+    top: 200px;
+    border: 10px solid rgb(92, 90, 90);
+}
+.smil3{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 600px;
+    height: 280px;
+    position: relative;
+    left: 510px;
+    top: 220px;
+    border: 10px solid rgb(92, 90, 90);
+}
+.smil4{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 600px;
+    height: 280px;
+    position: relative;
+    left: 510px;
+    top: 240px;
+    border: 10px solid rgb(92, 90, 90);
+}
+.smil5{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 600px;
+    height: 280px;
+    position: relative;
+    left: 510px;
+    top: 260px;
+    border: 10px solid rgb(92, 90, 90);
+}
+.smil6{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 600px;
+    height: 280px;
+    position: relative;
+    left: 510px;
+    top: 280px;
+    border: 10px solid rgb(92, 90, 90);
+}
+.smil7{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 600px;
+    height: 280px;
+    position: relative;
+    left: 510px;
+    top: 300px;
+    border: 10px solid rgb(92, 90, 90);
+}
+.spi{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 400px;
+    height: 280px;
+    position: relative;
+    left: 310px;
+    top: 0px;
+    border: 10px solid rgb(92, 90, 90);
+}
+.spik{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 200px;
+    position: relative;
+    left: 310px;
+    top: 0px;
+    border: 10px solid rgb(92, 90, 90);
+}
+.spech{
+   overflow: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 1000px;
+    position: relative;
+    left: 310px;
+    top: 0px;
+    border: 10px solid rgb(92, 90, 90);
+}
+#rom{
+    text-align: center;
+    position: relative;
+    left: 165px;
+    bottom: 300px;
+}
+#rm{
+    text-align: center;
+    position: relative;
+    left: 165px;
+    bottom: 20px;
+}
+#rmo{
+    text-align: center;
+    position: relative;
+    left: 165px;
+    bottom: -100px;
+}
+#rmoo{
+    text-align: center;
+    position: relative;
+    left: 165px;
+    bottom: -120px;
+}
+#rmoot{
+    text-align: center;
+    position: relative;
+    left: 165px;
+    bottom: -140px;
+}
+#rmoot1{
+    text-align: center;
+    position: relative;
+    left: 165px;
+    bottom: -160px;
+}
+#rmoot2{
+    text-align: center;
+    position: relative;
+    left: 165px;
+    bottom: -180px;
+}
+#rmoot3{
+    text-align: center;
+    position: relative;
+    left: 165px;
+    bottom: -200px;
+}
+#rmoot4{
+    text-align: center;
+    position: relative;
+    left: 165px;
+    bottom: -220px;
+}
+#rmoot5{
+    text-align: center;
+    position: relative;
+    left: 165px;
+    bottom: -240px;
+}
+#rmoot6{
+    text-align: center;
+    position: relative;
+    left: 165px;
+    bottom: -260px;
+}
+#rmoot7{
+    text-align: center;
+    position: relative;
+    left: 165px;
+    bottom: -280px;
+}
+#room{
+    text-align: center;
+    position: relative;
+    left: 165px;
+    bottom: 150px;
+}
+#class{
+    text-align: center;
+    position: relative;
+    left: 165px;
+    top: 20px;
+}
+.grad{
+    margin: 17px 22px;
+}
+.gram{
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+}
+.graf{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 500px;
+    top: 0px;
+    
+}
+.gra{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 2px;
+    
+}
+.graf:hover{
+    border: 5px solid rgb(18, 141, 179);
+    height: 190px;
+    position: relative;
+    left: 502px;
+}
+.gra:hover{
+    border: 5px solid rgb(18, 141, 179);
+    height: 190px;
+    
+}
+#a1{
+
+width: 330px;
+height: 170px;
+}
+#a2{
+
+    width: 330px;
+    height: 170px;
+    }
+#ham{
+    rotate: 90deg;
+    position: relative;
+    left: -2583px;
+    top: 2590px;
+    width: 5700px;
+    
+}
+#sidebar{
+    position: sticky;
+    top: 270px;
+}
+.ed{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 10px;
+    left: 40px;
+    
+}
+.ma{
+    position: relative;
+    bottom: 268px;
+    right: 50px;
+    width: 315px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    cursor: pointer;
+    
+}
+.ma:hover{
+background-color: rgb(230, 225, 225);
+}
+.b{
+    position: relative;
+    left: 40px;
+}
+.bi{
+position: relative;
+left: 20px;
+}
+.bec{
+    position: relative;
+    left: 50px;
+}
+.bic{
+    position: relative;
+    left: 35px;
+}
+.bice{
+    position: relative;
+    left: 45px;
+}
+.bece{
+    text-align: center;
+}
+.spech::-webkit-scrollbar{
+    
+    height: 15px;
+}
+.spech::-webkit-scrollbar-track{
+background-color: yellowgreen;
+}
+.spech::-webkit-scrollbar-thumb{
+background-color: rgb(94, 255, 0);
+position: relative;
+top: 100px;
+}
+.spech::-webkit-scrollbar-thumb:hover{
+    background-color: green;
+}
+#head{
+    position: relative;
+    left: 12px;
+    bottom: -20px;
+}
+#list{
+    width: 205px;
+    height: auto;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+   z-index: 35;
+   display: none;
+    position: relative;
+    right: 207px;
+    top: 35px;
+    border-radius: 10px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.product{
+    width: 205px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.product:hover{
+    background-color: aliceblue;
+}
+UL li a {
+    /* border: 1px solid #ddd; */
+    margin-top: -1px; /* Prevent double borders */
+    /* background-color: #f6f6f6; */
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    display: block
+  }
+  
+  #myUL li a:hover:not(.header) {
+    background-color: #eee;
+  }
+.filter{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    position: relative;
+    top: 13px;
+    margin-right: 15px;
+    
+}
