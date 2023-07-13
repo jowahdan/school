@@ -1,0 +1,85 @@
+#school{
+width: 100%;
+height: 100%;
+filter: blur(2.5px);
+}  
+.div{
+
+  
+    height: 100%;
+    width: 100%;
+} 
+#all{
+background-color: white;
+width: 550px;
+height: 400px;
+/* display: flex;
+flex-direction: column;
+justify-content: space-around; */
+position: relative;
+/* bottom: 550px; */
+/* bottom: 1080px; */
+left: 400px;
+margin-top: -1100px;
+border-radius: 30px;
+transition: all 2s;
+}
+.choise{
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 70px;
+    margin: 10px;
+    position: relative;
+    top: 20px;
+    cursor: pointer;
+}
+.choise:hover{
+    background-color: blue;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.edit{
+    width: 55px;
+    height: 55px;
+    position: relative;
+    left: 80px;
+    top: 8px;
+}
+.h2{
+    position: relative;
+    right: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.wel{
+    position: relative;
+    left: 28px;
+    top: 30px;
+    
+}
+h3{
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 10px;
+}
+#move{
+  position: relative;
+  left: 87px;
+  top: 0px;
+}
+@media screen and (max-width:750px){
+    #all{
+        position: relative;
+        left: 60px;
+    }
+}

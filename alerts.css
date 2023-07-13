@@ -1,0 +1,50 @@
+img{
+    width: 25px;
+    height: 25px;
+    rotate: 180deg;
+    position: relative;
+    top: 20px;
+    right: 20px;
+}
+.be{
+    position: relative;
+    right: 25px;
+    top: -3px;
+}
+body{
+    text-align: center;
+    background-color: rgb(206, 211, 211);
+}
+.num{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 120px;
+    margin: 0 auto;
+}
+
+.alert{
+    background-color: white;
+    height: auto;
+    width: auto;
+    border-radius: 20px;
+    direction: rtl;
+    margin: 50px;
+}
+h3{
+    direction: rtl;
+    text-align: right;
+    position: relative;
+    right: 20px;
+    bottom: 15px;
+}
+.al{
+    display: flex;
+    flex-direction: row;
+    
+}
+.h2{
+    position: relative;
+    bottom: 2px;
+    right: 15px;
+}

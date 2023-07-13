@@ -1,0 +1,51 @@
+.gram{
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    position: relative;
+    left: 120px;
+    bottom: 20px;
+}
+.star{
+    width: 30px;
+    height: 30px;
+   cursor: pointer;
+   position: relative;
+   top: 20px;
+  }
+  .jo{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    position: relative;
+    top: 20px;
+  }
+  .all{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    width: 420px;
+    position: relative;
+    bottom: 30px;
+    left: 5px;
+  }
+  .allo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    width: 420px;
+    position: relative;
+    bottom: 630px;
+    left: 760px;
+  }
+  #list{
+    border: 5px solid black;
+    height: auto;
+  }
+  .rep{
+    position: relative;
+    bottom: 580px;
+    left: 700px;
+  }a

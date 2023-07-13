@@ -1,0 +1,28 @@
+
+h2{
+    text-align: center;
+}
+.free{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.choise{
+    width: 200px;
+    height: 50px;
+    border: none;
+    background-color: rgb(240, 240, 240);
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.choise:hover{
+    background-color: white;
+    border: 3px solid black;
+    
+}
+
+/* body{
+    direction: rtl;
+} */
